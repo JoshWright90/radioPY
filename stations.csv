@@ -1,0 +1,11 @@
+Index,Station,URL
+1,BBC Radio 1,http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8 
+2,BBC Radio 2,http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8 
+3,BBC Radio 5 Live,http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8 
+4,BBC Radio 6 Music,http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+5,Radio X,http://icecast.thisisdax.com/RadioXManchesterMP3.m3u
+6,Gold,http://icecast.thisisdax.com/GoldMP3.m3u
+7,Heart 70s,http://icecast.thisisdax.com/Heart70sMP3.m3u
+8,Heart 80s,http://icecast.thisisdax.com/Heart80sMP3.m3u
+9,Heart 90s,http://icecast.thisisdax.com/Heart90sMP3.m3u
+10,Kerrang,http://www.radiofeeds.co.uk/bauer.pls?station=kerrang.mp3.m3u
